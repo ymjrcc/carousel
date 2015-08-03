@@ -3,7 +3,7 @@
 ------
 
 这是一个用 jQuery 和面向对象思想开发的旋转木马图片轮播插件。
-修改 **index.html** 中的 **data-setting** 属性，可以自定义各种样式和属性。
+修改 **index.html** 中的 **data-setting** 属性，可以自定义各种样式。
 
 > * width： 插件宽度
 > * height： 插件高度
