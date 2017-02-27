@@ -15,4 +15,4 @@
 > * delay： 自动播放间隔时间
 > * verticalAlign： 居中对齐/顶部对齐/底部对齐(middle/top/bottom)
 
-[点击查看效果图](http://ymjrcc.github.io/mypractice/carousel/)
+[查看效果图](https://ymjrcc.github.io/carousel/)
